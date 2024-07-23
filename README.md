@@ -1,5 +1,4 @@
 
-akshay_readme_content = """
 ### 👋 I'm Akshay Mahalle
 
 * 💡 Embracing life's challenges with an analytical twist: tomorrow's success is built on today's efforts. Embrace the present and drive towards a brighter future!
