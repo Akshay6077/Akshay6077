@@ -1,4 +1,3 @@
-# Updated content for README.md file based on user's resume for Akshay Mahalle
 
 akshay_readme_content = """
 ### 👋 I'm Akshay Mahalle
@@ -73,9 +72,4 @@ akshay_readme_content = """
 - LinkedIn: [akshaymahalle18](https://www.linkedin.com/akshaymahalle18)
 """
 
-# Save the updated content to a new README.md file
-updated_file_path = "/mnt/data/README_Akshay_Mahalle.md"
-with open(updated_file_path, "w") as file:
-    file.write(akshay_readme_content)
 
-updated_file_path
