@@ -2,9 +2,9 @@
 ### 👋 I'm Akshay Mahalle
 
 * 💡 Embracing life's challenges with an analytical twist: tomorrow's success is built on today's efforts. Embrace the present and drive towards a brighter future!
-* 🎓 I've completed my MS in Robotics and Autonomous Systems from Arizona State University, and my BE in Mechanical Engineering from Pune University.
+* 🎓 I'm currently pursuing my MS in Robotics and Autonomous Systems from Arizona State University, and I've completed my BE in Mechanical Engineering from Pune University.
 * 👯 I’m looking forward to collaborating on innovative robotics projects and building a community that helps each other grow
-* 🌱 I'm currently learning RoboDK & Fusion360
+* 🌱 I'm currently working on the Pybullet and ROS2 integration for the VSR Robot
 ---
 
 ####   *Let's get 1% better each day!*
